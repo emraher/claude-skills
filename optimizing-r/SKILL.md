@@ -104,3 +104,5 @@ When speed is critical, consider:
 - **data.table** - Large data operations
 
 Profile to identify whether these tools will help your specific bottleneck.
+
+source: Sarah Johnson's gist https://gist.github.com/sj-io/3828d64d0969f2a0f05297e59e6c15ad

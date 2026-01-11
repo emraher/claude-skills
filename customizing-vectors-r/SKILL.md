@@ -120,3 +120,5 @@ See [testing-vctrs.md](references/testing-vctrs.md) for:
 ## Key Insight
 
 **vctrs is most valuable in package development where type safety, consistency, and extensibility matter more than raw speed for simple operations.**
+
+source: Sarah Johnson's gist https://gist.github.com/sj-io/3828d64d0969f2a0f05297e59e6c15ad

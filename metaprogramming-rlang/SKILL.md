@@ -120,3 +120,5 @@ importFrom(rlang, enquo, enquos, expr, !!!, :=)
 ### Testing rlang Functions
 
 See [testing-examples.md](references/testing-examples.md) for testing data-masking and injection behavior.
+
+source: Sarah Johnson's gist https://gist.github.com/sj-io/3828d64d0969f2a0f05297e59e6c15ad

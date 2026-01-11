@@ -100,3 +100,5 @@ See [when-s3.md](references/when-s3.md) for:
 2. **S4 → S7**: More complex, evaluate if S4 features are actually needed
 3. **Base R → vctrs**: For vector-like classes, significant benefits
 4. **Combining approaches**: S7 classes can use vctrs principles internally
+
+source: Sarah Johnson's gist https://gist.github.com/sj-io/3828d64d0969f2a0f05297e59e6c15ad

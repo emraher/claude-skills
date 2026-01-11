@@ -138,3 +138,5 @@ See [anti-patterns.md](references/anti-patterns.md) for examples of what to avoi
 | `separate(col, into = ...)` | `separate_wider_delim()` |
 
 See [migration-examples.md](references/migration-examples.md) for complete migration patterns.
+
+source: Sarah Johnson's gist https://gist.github.com/sj-io/3828d64d0969f2a0f05297e59e6c15ad

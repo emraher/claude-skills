@@ -112,3 +112,5 @@ See [testing-patterns.md](references/testing-patterns.md) for examples.
 - Simple internal helpers
 - Obvious parameter meanings
 - Functions that just call other functions
+
+source: Sarah Johnson's gist https://gist.github.com/sj-io/3828d64d0969f2a0f05297e59e6c15ad
