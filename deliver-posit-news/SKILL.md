@@ -6,7 +6,7 @@ description: |
 
 ---
 
-# Posit News
+# Deliver Posit News
 
 Fetch the latest Posit news from Posit blog posts, podcast episodes, and event announcements and present them to the user.
 
